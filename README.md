@@ -6,7 +6,6 @@
 🌱 Currently expanding my GitHub with academic and personal projects. 
 
 ### 📌 Featured Projects
-(coming soon…)
 - Robot movement simulator (Java, OOP & inheritance)  
 - Chess threat analyzer (Java, polymorphism)  
 - Print server with priority queue (Java, interfaces & data structures)  

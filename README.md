@@ -1,7 +1,7 @@
 # Hi, I'm Tahleel👋
 
 🎓 **I'm a 2nd year Computer Science student @ Azrieli College**  
-💻 **Languages:** Java, Python, C++, C, C#, Assembly (PIC16)
+💻 **Languages:** Java, Python, JavaScript, C++, C, C# and Assembly (PIC16)
 ⚙️ **Topics:** OOP, data structures, algorithms, low-level systems  
 🌱 Currently expanding my GitHub with academic and personal projects. 
 

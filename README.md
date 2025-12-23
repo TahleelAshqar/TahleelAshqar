@@ -18,15 +18,18 @@ I am actively developing my skills by building structured, well-documented proje
 
 ## Projects
 
-- **Robot Movement Simulator** — Java implementation demonstrating inheritance, method overriding, and class hierarchy design.  
-- **Chess Threat Analyzer** — Polymorphic chess engine for move validation and threat detection.  
-- **Print Server with Priority Queue** — Custom queue implementation with ordered insertion and interface-based design.  
-- **Morse Code Decoder Using a Binary Tree** — Generic tree structure with recursive traversal for decoding logic.  
-- **Social Network Graph with BFS** — Graph-based model supporting user connections, lookups, and exception-safe operations.  
+- **Robot Movement Simulator (Java)** — Implementation demonstrating inheritance, method overriding, and class hierarchy design.  
+- **Chess Threat Analyzer (Java)** — Polymorphic chess engine for move validation and threat detection.  
+- **Print Server with Priority Queue (Java)** — Custom queue implementation with ordered insertion and interface-based design.  
+- **Morse Code Decoder Using a Binary Tree (Java)** — Generic tree structure with recursive traversal for decoding logic.  
+- **Social Network Graph with BFS (Java)** — Graph-based model supporting user connections, lookups, and exception-safe operations.
+- 
 - **PIC16 Math Routines (Assembly)** — Low-level arithmetic routines written for the PIC microcontroller.  
-- **Break-Time Selector App** — DOM-driven JavaScript interface for dynamic content selection using jQuery.  
-- **Car Management System** — JavaScript OOP project for storing, navigating, and displaying user-generated car entries.
 - **PIC16F877 Up/Down Counter (Assembly)** — Low-level PIC assembly project featuring BCD digit handling, direct register control, and switch-driven up/down logic.
+- 
+- **Break-Time Selector App (JavaScript)** — DOM-driven JavaScript interface for dynamic content selection using jQuery.  
+- **Car Management System (JavaScript)** —  OOP project for storing, navigating, and displaying user-generated car entries.
+
 ---
 
 ## About Me

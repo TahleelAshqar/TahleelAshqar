@@ -23,6 +23,10 @@ I am actively developing my skills by building structured, well-documented proje
 - **Print Server with Priority Queue (Java)** — Custom queue implementation with ordered insertion and interface-based design.  
 - **Morse Code Decoder Using a Binary Tree (Java)** — Generic tree structure with recursive traversal for decoding logic.  
 - **Social Network Graph with BFS (Java)** — Graph-based model supporting user connections, lookups, and exception-safe operations.
+
+- **Memory Game (C)** — Classic NxN memory game with dynamic board management using structs and pointers, wrapped with a Raylib-based graphical interface.
+- **String Packet Splitter (C)** — Low-level C utility that splits a string into fixed-size packets using pointers and enables safe packet retrieval.
+- **Magic Square Validator (C)** — C program that validates magic squares and fixes an almost-correct square by identifying and correcting a single erroneous cell.
 - 
 - **PIC16 Math Routines (Assembly)** — Low-level arithmetic routines written for the PIC microcontroller.  
 - **PIC16F877 Up/Down Counter (Assembly)** — Low-level PIC assembly project featuring BCD digit handling, direct register control, and switch-driven up/down logic.

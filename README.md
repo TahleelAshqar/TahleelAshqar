@@ -38,6 +38,7 @@ I continuously strengthen my technical skills by building structured, well-docum
 
 - **PIC16 Math Routines** — Assembly routines implementing arithmetic operations for PIC microcontrollers.  
 - **PIC16F877 Up/Down Counter** — Embedded project implementing a BCD counter with hardware switch control and direct register manipulation.
+- **PIC16F877 Password Lock System** — Embedded security system using keypad input and LCD output with password validation, attempt tracking, and lockout mechanism controlled via external signal.
 
 ### JavaScript
 

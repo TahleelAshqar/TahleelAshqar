@@ -46,6 +46,12 @@ I continuously strengthen my technical skills by building structured, well-docum
 - **Break-Time Selector App** — Interactive web interface using JavaScript and jQuery to switch between embedded timer videos dynamically.  
 - **Car Management System** — Object-oriented JavaScript project for managing and displaying user-created car entries.
 
+### Python / Machine Learning
+Bike Sharing Demand Prediction — Machine learning regression project that predicts bike rental demand using data preprocessing, feature engineering, hyperparameter tuning, and model comparison with Scikit-learn.
+
+### C++
+Security Log Analyzer — C++ runtime event analyzer that parses and validates process logs, tracks process behavior by PID, and detects suspicious shell activity such as sensitive file access and network connections.
+
 ---
 
 ## About Me
